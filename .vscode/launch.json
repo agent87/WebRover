@@ -5,7 +5,7 @@
             "name": "Python: Scrapper",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/UrlAssetsScrapper/scrap_url_file_assets.py",
+            "program": "${workspaceFolder}/src/rover.py",
             "cwd": "${workspaceFolder}",
             "args": [
                 "https://prium.github.io/phoenix/v1.14.0/pages/authentication/split/sign-up.html"

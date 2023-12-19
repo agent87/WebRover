@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='web-rover-kayarn',
+    name='web-rover',
     version='0.1.0',  # Replace with your desired version
     description='A Python Package to Scrap Web Assets',
     long_description=open('README.md').read(),

@@ -1,0 +1,18 @@
+[project]
+name = "web_rover_kayarn"
+version = "0.0.1"
+authors = [
+  { name="Arnaud Kayonga", email="arnauldkayonga1@gmail.com" },
+]
+description = "WebRover is a versatile Python library designed for effortless exploration and retrieval of web assets. Seamlessly combining the functionalities of web cloning and content harvesting, WebRover empowers users to effortlessly gather static assets such as images, stylesheets, and scripts from a given web page."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/agent87/WebRover"
+Issues = "https://github.com/agent87/WebRover/issues"

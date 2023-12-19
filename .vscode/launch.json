@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Scrapper",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/UrlAssetsScrapper/scrap_url_file_assets.py",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "https://prium.github.io/phoenix/v1.14.0/pages/authentication/split/sign-up.html"
+            ],
+            "env": {},
+            "stopOnEntry": false,
+            "console": "integratedTerminal"
+        },
+    ]
+}
